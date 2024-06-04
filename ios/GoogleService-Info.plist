@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>794985070865-4g1al73u411mqivnnoe9h55fpcugbf9m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.794985070865-4g1al73u411mqivnnoe9h55fpcugbf9m</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>794985070865-0p3c1fne71gmc9pbv6ijrac4rt06p08o.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAHhOrdLudYdzEN4Z_mG76g9msxBExdC54</string>
+	<key>GCM_SENDER_ID</key>
+	<string>794985070865</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nerasaye.nerasaye.seller</string>
+	<key>PROJECT_ID</key>
+	<string>nerasaye-276917</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nerasaye-276917.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:794985070865:ios:19bf7b1144f6202a1e0cb0</string>
+	<key>DATABASE_URL</key>
+	<string>https://nerasaye-276917.firebaseio.com</string>
+</dict>
+</plist>
